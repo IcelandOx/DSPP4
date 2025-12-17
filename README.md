@@ -125,12 +125,12 @@ Categories were ranked by their coefficients, largest to the smallest (Figs.17,1
 #Fig.17
  ![Alt text](images/17.png)
 #Fig.18
-   ![Alt text](images/18.png)
-      ![Alt text](images/18.1.png)
-         ![Alt text](images/18.2.png)
-            ![Alt text](images/18.3.png)
-               ![Alt text](images/18.4.png)
-                  ![Alt text](images/18.5.png)
+ ![Alt text](images/18.png)
+ ![Alt text](images/18.1.png)
+ ![Alt text](images/18.2.png)
+ ![Alt text](images/18.3.png)
+ ![Alt text](images/18.4.png)
+ ![Alt text](images/18.5.png)
 The range in coefficients indicated varying strengths of relationship between the two variables. 
 
 #Dashboard & Visuals
@@ -138,17 +138,17 @@ The range in coefficients indicated varying strengths of relationship between th
 Data was loaded into Power BI using the CSV connector (Figs.19,20).
 
 #Fig.19
-   ![Alt text](images/19.png)
+![Alt text](images/19.png)
 #Fig.20
-   ![Alt text](images/20.png)
+![Alt text](images/20.png)
 Data was loaded into the dashboard. A dynamic table grouped ratings by complexity ‘bins’, allowing users to quantify insights (Fig.21).
 
 #Fig.21
-    ![Alt text](images/21.png)
+![Alt text](images/21.png)
 A business logo and a title were added to connect theme with branding.
 
 #Fig.22
-    ![Alt text](images/22.png)
+![Alt text](images/22.png)
 A line chart shows stakeholders how complexity affects user ratings (Fig.22). 
 
 A trendline replicates the linear regression previously produced in Python. The format makes it easy for users to move their cursor over the chart and view a predicted rating for any level of complexity. 
@@ -160,6 +160,9 @@ A slicer filters the chart and trendline dynamically, enabling designers to deri
 An R-squared score of 0.4 and a regression coefficient of 0.53 enabled designers to predict how users will react to game complexity. 
 
 Contrary to the initial hypothesis there was no observed ‘dip’ in ratings for more complex games. 
+
+Board game data provided compliments of BoardGameGeek:
+![Alt text](images/BGG Logo.png)
 
 While actual ratings may deviate from the experiment’s predicted values, both ‘complexity’ and ‘ratings’ attempt to quantify subjective opinions, something which is inherently volatile within a population. The ‘general trend’ however, is still of commercial value. Users can select and quantify how combinations of categories affect ratings, which is important to game developers when looking to make the most appealing product, a key component of commercial success. 
 

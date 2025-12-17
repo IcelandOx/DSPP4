@@ -1,9 +1,5 @@
 # Board Game Complexity Analysis
 Data Science Course Projects
-#Public Project
-<!-- thisi s a comment - Insert link to image from main repository !>
-##Stock Image
-[logo]: https://github.com/IcelandOx/DSPP4/blob/main/Images/castle.jpg
 
 **Executive Summary**
 

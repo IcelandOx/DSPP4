@@ -208,30 +208,55 @@ Notwithstanding these challenges, the system of considering the most appealing g
 **Bibliography**
 
 •	Samarasinghe, D., 2021. BoardGameGeek Dataset on Board Games. IEEE DataPort. [online] Available at: https://doi.org/10.21227/9g61-bs59 [Accessed 15 October 2025]
+
 •	Greenhalgh, S.P., Koehler, M.J. and Boltz, L.O. 2019. The Fun of Its Parts: Design and Player Reception of Educational Board Games – CITE Journal. [online] Available at: https://citejournal.org/volume-19/issue-3-19/general/the-fun-of-its-parts-design-and-player-reception-of-educational-board-games/ [Accessed 30 October 2025]
+
 •	Rossi, F.S. et al., 2025. From glitter to gold: recommendations for effective dashboards from design through sustainment. Implementation Sci, 20,16., doi: https://doi.org/10.1186/s13012-025-01430-x [Accessed 27 October 2025]
+
 •	GOV.UK, 2018. Data Protection Act 2018. [online] legislation.gov.uk. Available at: https://www.legislation.gov.uk/ukpga/2018/12/contents [Accessed 2 November 2025]
+
 •	Matplotlib.org. (n.d.). Colormap reference — Matplotlib 3.5.2 documentation. [online] Available at: https://matplotlib.org/stable/gallery/color/colormap_reference.html [Accessed 17 October 2025]
+
 •	GeeksforGeeks, 2020. Export Pandas dataframe to a CSV file. [online] GeeksforGeeks. Available at: https://www.geeksforgeeks.org/python/export-pandas-dataframe-to-a-csv-file [Accessed 15 October 2025]
+
 •	pandas.pydata.org. (n.d.). Merge, join, concatenate and compare — pandas 1.2.4 documentation. [online] Available at: https://pandas.pydata.org/docs/user_guide/merging.html [Accessed 22 October 2025]
+
 •	Waskom, M., 2024. Seaborn.boxplot — seaborn 0.11.1 documentation. [online] seaborn.pydata.org. Available at: https://seaborn.pydata.org/generated/seaborn.boxplot.html [Accessed 15 October 2025]
+
 •	BoardGameGeek, 2025. Weight. [online] Available at: https://boardgamegeek.com/wiki/page/Weight [Accessed 15 October 2025]
+
 •	www.w3schools.com, (n.d.). Matplotlib Labels and Title. [online] Available at: https://www.w3schools.com/python/matplotlib_labels.asp [Accessed 20 October 2025]
+
 •	Google, 2024. Linear regression. [online] Google for Developers. Available at: https://developers.google.com/machine-learning/crash-course/linear-regression [Accessed 22 October 2025]
+
 •	GeeksforGeeks (n.d.) Pandas groupby and computing median. Available at: https://www.geeksforgeeks.org/python/pandas-groupby-and-computing-median/ [Accessed 21 October 2025]
+
 •	Amit, H., 2025. Ways to use pandas move index to column. Medium. Available at: https://medium.com/@heyamit10/ways-to-use-pandas-move-index-to-column-8d507b2b0795 [Accessed 16 October 2025]
+
 •	Analytics Vidhya, 2025. R-squared formula explanation. Medium. Available at: https://medium.com/analytics-vidhya/r-squared-formula-explanation-6dc0096ce3ba [Accessed 1 November 2025]
+
 •	UK Government, 2025. The Government Data Quality Framework. Available at: https://www.gov.uk/government/publications/the-government-data-quality-framework/the-government-data-quality-framework#Data-Quality-Principles [Accessed 2 November 2025]
+
 •	IEEE, 2021. Document 9509022. Available at: https://ieeexplore.ieee.org/document/9509022 [Accessed 20 October 2025]
+
 •	Reese, L., 2025. Power BI dashboard design best practices guide. Available at: https://lukasreese.com/2025/08/20/power-bi-dashboard-design-best-practices-guide/ [Accessed 15 October 2025]
+
 •	Color Blindness (n.d.) Coblis – Color blindness simulator. Available at: https://www.color-blindness.com/coblis-color-blindness-simulator/ [Accessed 21 October 2025]
+
 •	Gultekin, H., 2025. What is silhouette score?. Medium. Available at: https://medium.com/@hazallgultekin/what-is-silhouette-score-f428fb39bf9a [Accessed 3 November 2025]
+
 •	Six Sigma DSI (n.d.) Multiple regression line. Available at: https://sixsigmadsi.com/multiple-regression-line/ [Accessed 22 October 2025]
+
 •	CITE Journal, 2019. The fun of its parts: Design and player reception of educational board games. Available at: https://citejournal.org/volume-19/issue-3-19/general/the-fun-of-its-parts-design-and-player-reception-of-educational-board-games/ [Accessed 15 October 2025]
+
 •	Google for Developers, 2025. Advantages and disadvantages of k-means. [online] Available at: https://developers.google.com/machine-learning/clustering/kmeans/advantages-disadvantages?_gl=1 [Accessed 4 Dec. 2025]
+
 •	GOV.UK, 2020. Data Ethics Framework. [online] Available at: https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020 [Accessed 4 Dec. 2025]
+
 •	BoardGameGeek, 2025. BGG XML API Commercial Use. [online] Available at: https://boardgamegeek.com/wiki/page/BGG_XML_API_Commercial_Use [Accessed 4 Dec. 2025]
+
 •	IBM, 2024. Data Bias. [online] Ibm.com. Available at: https://www.ibm.com/think/topics/data-bias [Accessed 4 Dec. 2025]
 
 Board game data provided compliments of BoardGameGeek: 
-![Alt text](images/BGG Logo.png)
+
+<img src="Images/BGG Logo.png">

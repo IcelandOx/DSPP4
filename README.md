@@ -46,8 +46,7 @@ The final dashboard mitigates cognitive and confirmation biases by allowing user
 An overview of Data Scientist (DS) interactions, the ETL (Extract, Transform, Load) pipeline and how this could be put into production is illustrated in Fig.1.
 
 **Fig.1**
-<img src="[DSPP4/images/1.png](https://github.com/IcelandOx/DSPP4/blob/main/Images/1.png)" alt="My Photo">
-![Alt text](DSPP4/images/1.png)
+<img src="images/1.png">
 Data was explored using Python to leverage its superior analytical capabilities, compared with other applications such as Excel. It was then exported to a CSV file, processed through Power BI and presented to senior developers and focus groups.
 
 Feedback informs development choices, such as the level of complexity, theme, category and genre. If this is sufficiently positive the product will be delivered to market, if it is too simple or too complicated, further development will be completed. The feedback process is looped until stakeholders are satisfied with the product.

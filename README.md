@@ -193,13 +193,17 @@ A trendline replicates the linear regression previously produced in Python. The 
 
 A slicer filters the chart and trendline dynamically, enabling designers to derive category specific insights.
 
-**Conclusions **
+**Conclusions**
 
 An R-squared score of 0.4 and a regression coefficient of 0.53 enabled designers to predict how users will react to game complexity. Contrary to the initial hypothesis there was no observed ‘dip’ in ratings for more complex games. 
 
 While actual ratings may deviate from the experiment’s predicted values, both ‘complexity’ and ‘ratings’ attempt to quantify subjective opinions, something which is inherently volatile within a population. The ‘general trend’ however, is still of commercial value. Users can select and quantify how combinations of categories affect ratings, which is important to game developers when looking to make the most appealing product, a key component of commercial success. 
 
 In the future, the ‘number of units owned’ metric should be considered to estimate future sales volumes and indicate the viability of future projects. 
+
+Additional exploration could be considered looking at whether ratings actually translate to commercial success. Prime examples include educational games, as highlighted by Greenhalgh et al, where they may be intended to do more than simply entertain. Alternatively, the relationship between ratings and sales (number owned) could be explored further, it is assumed throughout the Apprentice's experiment that the highest rated product would translate to the best-selling product, but this may not be correct.
+
+Notwithstanding these challenges, the system of considering the most appealing game mechanices based on prior experience, using this to inform feature development for the new product, feeding back to a focus group and then iterating, is a model which can easily be adopted into production. It promotes the idea that if something does not work you 'fail quickly', learn and improve, and then succeed. This promotes efficiency, being of considerable use to market research and design functions within the business.
 
 **Bibliography**
 

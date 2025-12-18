@@ -104,11 +104,11 @@ Given the level of variance for each ‘GameWeight’ score, these have been gro
 
 **Fig.9**
 
-<img src="Images/9.png">
+<img src="Images/9.jpg">
  
 **Fig.10**
 
-<img src="Images/10.png">
+<img src="Images/10.jpg">
 
 A line chart shows movements in median rating by complexity, with the purple trend derived through linear regression (Fig.11).
 

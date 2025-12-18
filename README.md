@@ -203,7 +203,7 @@ In the future, the ‘number of units owned’ metric should be considered to es
 
 Additional exploration could be considered looking at whether ratings actually translate to commercial success. Prime examples include educational games, as highlighted by Greenhalgh et al, where they may be intended to do more than simply entertain. Alternatively, the relationship between ratings and sales (number owned) could be explored further, it is assumed throughout the Apprentice's experiment that the highest rated product would translate to the best-selling product, but this may not be correct.
 
-Notwithstanding these challenges, the system of considering the most appealing game mechanices based on prior experience, using this to inform feature development for the new product, feeding back to a focus group and then iterating, is a model which can easily be adopted into production. It promotes the idea that if something does not work you 'fail quickly', learn and improve, and then succeed. This promotes efficiency, being of considerable use to market research and design functions within the business.
+Notwithstanding these challenges, the system of considering the most appealing game mechanices based on prior experience, using this to inform feature development for the new product, feeding back to a focus group and then iterating, is a model which can easily be adopted into production. It promotes the idea that if something does not work you 'fail quickly', learn and improve, and then succeed. This promotes efficiency, being of considerable value to market research and design functions within the business.
 
 **Bibliography**
 
